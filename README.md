@@ -1,4 +1,4 @@
- Hi there 👋 i'am Athira
+ Hi there 👋 I'm Athira
  
  
  
