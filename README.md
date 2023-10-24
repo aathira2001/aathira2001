@@ -6,7 +6,7 @@
 
   
   
-  🌱 I’m currently learning python,MERN stack
+  🌱 I’m currently learning JAVA Full Stack Development
   
   
   ⚡ Fun fact friendly
