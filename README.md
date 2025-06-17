@@ -6,7 +6,7 @@
 
   
   
-  🌱 I’m currently learning JAVA Full Stack Development
+  🌱 Actively building my foundation in computer science through coding, development, and continuous learning.
   
   
   ⚡ Fun fact friendly
